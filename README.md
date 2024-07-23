@@ -109,7 +109,7 @@ This report documents the steps taken to preprocess the data, build and optimize
    * Learning Rate Scheduling: Adjusted learning rates to optimize training dynamics.
 
 
-#Summary
+# Summary
 
 
 * Overall Results:
@@ -129,10 +129,7 @@ This report documents the steps taken to preprocess the data, build and optimize
 
          * Why: GBM algorithms can also manage complex patterns in data and often perform well on classification tasks. They are effective in capturing non-linear relationships and interactions between features.
 
-* Explanation: 
-         
-		 * Using ensemble methods like Random Forests or GBMs can potentially offer better performance on this dataset due to their ability to capture intricate patterns without requiring extensive hyperparameter tuning and large data volumes.
-
+* Explanation: Using ensemble methods like Random Forests or GBMs can potentially offer better performance on this dataset due to their ability to capture intricate patterns without requiring extensive hyperparameter tuning and large data volumes. 
  
 
 ## Technologies Used
@@ -162,10 +159,9 @@ The deep-learning-challenge consists of the following folders and files:
    
    * AlphabetSoupCharity.h5  - The saved model file before optimization.
    
-   * AlphabetSoupCharity_Optimisation.h5  - The saved model file after optimization.
-   
+   * AlphabetSoupCharity_Optimisation.h5  - The saved model file after optimization.  
 
-* **README.md**- Provides the Overview of the Analysis and project folder Structure
+   * README.md**- Provides the Overview of the Analysis and project folder Structure
 
 
 ## How to Use
